@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{1A057BC2-C39A-4818-B97F-2A35EC61FFA4}|Default">
+  <MonoDevelop.Ide.ItemProperties.Company.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Company.Models/CompanyContext.cs">
+    <Files>
+      <File FileName="Company.Entities/Companies.cs" Line="6" Column="13" />
+      <File FileName="Company.Business/Converter/CompanyToModelConverter.cs" Line="1" Column="1" />
+      <File FileName="Company.Business/Services/CompanyInfo.cs" Line="15" Column="1" />
+      <File FileName="Company.Business/Services/Interfaces/ICompanyInfo.cs" Line="8" Column="20" />
+      <File FileName="Company.Api/Controllers/CompanyInfoController.cs" Line="11" Column="9" />
+      <File FileName="Company.Api/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="Company.Models/CompanyModel.cs" Line="5" Column="30" />
+      <File FileName="Company.Api/Startup.cs" Line="42" Column="55" />
+      <File FileName="Company.Api/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="Company.Models/CompanyContext.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Company" expanded="True">
+            <Node name="Company.Api" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="Company.Entities" expanded="True" />
+            <Node name="Company.Models" expanded="True">
+              <Node name="CompanyContext.cs" selected="True" />
+            </Node>
+            <Node name="Company.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Company.Entities FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Company.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

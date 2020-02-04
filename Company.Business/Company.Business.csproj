@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="EmptyClass.cs" />
+    <Compile Remove="Converter\GetCompanyFromName.cs" />
+    <Compile Remove="Class1.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Services\" />
+    <Folder Include="Converter\" />
+    <Folder Include="Services\Interfaces\" />
+    <Folder Include="Converter\Interfaces\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Company.Models\Company.Models.csproj" />
+  </ItemGroup>
+</Project>

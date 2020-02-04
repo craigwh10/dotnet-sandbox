@@ -1,0 +1,7 @@
+/Users/craigwhite/Projects/Company/Company.Models/bin/Debug/netcoreapp3.1/Company.Models.deps.json
+/Users/craigwhite/Projects/Company/Company.Models/bin/Debug/netcoreapp3.1/Company.Models.dll
+/Users/craigwhite/Projects/Company/Company.Models/bin/Debug/netcoreapp3.1/Company.Models.pdb
+/Users/craigwhite/Projects/Company/Company.Models/obj/Debug/netcoreapp3.1/Company.Models.AssemblyInfoInputs.cache
+/Users/craigwhite/Projects/Company/Company.Models/obj/Debug/netcoreapp3.1/Company.Models.AssemblyInfo.cs
+/Users/craigwhite/Projects/Company/Company.Models/obj/Debug/netcoreapp3.1/Company.Models.dll
+/Users/craigwhite/Projects/Company/Company.Models/obj/Debug/netcoreapp3.1/Company.Models.pdb

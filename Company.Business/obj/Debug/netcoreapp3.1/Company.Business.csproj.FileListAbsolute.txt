@@ -1,0 +1,3 @@
+/Users/craigwhite/Projects/Company/Company.Business/obj/Debug/netcoreapp3.1/Company.Business.csprojAssemblyReference.cache
+/Users/craigwhite/Projects/Company/Company.Business/obj/Debug/netcoreapp3.1/Company.Business.AssemblyInfoInputs.cache
+/Users/craigwhite/Projects/Company/Company.Business/obj/Debug/netcoreapp3.1/Company.Business.AssemblyInfo.cs

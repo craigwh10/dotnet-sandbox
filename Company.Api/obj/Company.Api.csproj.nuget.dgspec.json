@@ -1,0 +1,191 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/craigwhite/Projects/Company/Company.Api/Company.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/craigwhite/Projects/Company/Company.Api/Company.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/craigwhite/Projects/Company/Company.Api/Company.Api.csproj",
+        "projectName": "Company.Api",
+        "projectPath": "/Users/craigwhite/Projects/Company/Company.Api/Company.Api.csproj",
+        "packagesPath": "/Users/craigwhite/.nuget/packages/",
+        "outputPath": "/Users/craigwhite/Projects/Company/Company.Api/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/craigwhite/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/craigwhite/Projects/Company/Company.Business/Company.Business.csproj": {
+                "projectPath": "/Users/craigwhite/Projects/Company/Company.Business/Company.Business.csproj"
+              },
+              "/Users/craigwhite/Projects/Company/Company.Models/Company.Models.csproj": {
+                "projectPath": "/Users/craigwhite/Projects/Company/Company.Models/Company.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/craigwhite/Projects/Company/Company.Business/Company.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/craigwhite/Projects/Company/Company.Business/Company.Business.csproj",
+        "projectName": "Company.Business",
+        "projectPath": "/Users/craigwhite/Projects/Company/Company.Business/Company.Business.csproj",
+        "packagesPath": "/Users/craigwhite/.nuget/packages/",
+        "outputPath": "/Users/craigwhite/Projects/Company/Company.Business/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/craigwhite/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/craigwhite/Projects/Company/Company.Models/Company.Models.csproj": {
+                "projectPath": "/Users/craigwhite/Projects/Company/Company.Models/Company.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/craigwhite/Projects/Company/Company.Models/Company.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/craigwhite/Projects/Company/Company.Models/Company.Models.csproj",
+        "projectName": "Company.Models",
+        "projectPath": "/Users/craigwhite/Projects/Company/Company.Models/Company.Models.csproj",
+        "packagesPath": "/Users/craigwhite/.nuget/packages/",
+        "outputPath": "/Users/craigwhite/Projects/Company/Company.Models/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/craigwhite/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
