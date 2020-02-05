@@ -1,8 +1,8 @@
-﻿using System;
-namespace Company.Entities
-{
-    public class Companies
-    {
-        var 
-    }
-}
+﻿//using System;
+//namespace Company.Entities
+//{
+//    public class Companies
+//    {
+//        var 
+//    }
+//}

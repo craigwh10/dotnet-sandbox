@@ -1,21 +1,32 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
-using Company.Entities;
-using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Mvc;
-using RouteAttribute = Microsoft.AspNetCore.Components.RouteAttribute;
+using Microsoft.Extensions.Logging;
+using Company.Models;
+using Company.Business.Services.Interfaces;
 
 namespace Company.Api.Controllers
 {
-    [Route("v1/[controller]")]
-    public class CompanyInfoController : Controller
+    [ApiController]
+    [Route("[controller]")]
+    public class CompanyController : ControllerBase
     {
-        [HttpGet]
-        [ProducesResponseType(typeof(IEnumerable<CompanyModel>), 200)]
-        public Task<IActionResult> ReadAllAsync()
+        private readonly ICompanyInfoService _companyInfoService;
+        private readonly ILogger<CompanyController> _logger;
+
+        public CompanyController(ILogger<CompanyController> logger, ICompanyInfoService companyInfoService)
         {
-            throw new NotImplementedException();
+            _logger = logger;
+            _companyInfoService = companyInfoService;
+    }
+
+
+        [HttpGet]
+        public async Task<ActionResult<CompanyModel>> GetCompanyInfo(string name)
+        {
+            return await _companyInfoService.GetCompanyInfo(name);
         }
     }
 }

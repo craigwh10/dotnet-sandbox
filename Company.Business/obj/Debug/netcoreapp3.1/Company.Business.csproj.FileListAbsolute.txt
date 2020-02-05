@@ -1,3 +1,11 @@
 /Users/craigwhite/Projects/Company/Company.Business/obj/Debug/netcoreapp3.1/Company.Business.csprojAssemblyReference.cache
 /Users/craigwhite/Projects/Company/Company.Business/obj/Debug/netcoreapp3.1/Company.Business.AssemblyInfoInputs.cache
 /Users/craigwhite/Projects/Company/Company.Business/obj/Debug/netcoreapp3.1/Company.Business.AssemblyInfo.cs
+/Users/craigwhite/Projects/Company/Company.Business/bin/Debug/netcoreapp3.1/Company.Business.deps.json
+/Users/craigwhite/Projects/Company/Company.Business/bin/Debug/netcoreapp3.1/Company.Business.dll
+/Users/craigwhite/Projects/Company/Company.Business/bin/Debug/netcoreapp3.1/Company.Business.pdb
+/Users/craigwhite/Projects/Company/Company.Business/bin/Debug/netcoreapp3.1/Company.Models.dll
+/Users/craigwhite/Projects/Company/Company.Business/bin/Debug/netcoreapp3.1/Company.Models.pdb
+/Users/craigwhite/Projects/Company/Company.Business/obj/Debug/netcoreapp3.1/Company.Business.csproj.CopyComplete
+/Users/craigwhite/Projects/Company/Company.Business/obj/Debug/netcoreapp3.1/Company.Business.dll
+/Users/craigwhite/Projects/Company/Company.Business/obj/Debug/netcoreapp3.1/Company.Business.pdb

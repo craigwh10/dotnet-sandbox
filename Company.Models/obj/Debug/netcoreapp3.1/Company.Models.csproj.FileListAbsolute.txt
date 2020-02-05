@@ -5,3 +5,4 @@
 /Users/craigwhite/Projects/Company/Company.Models/obj/Debug/netcoreapp3.1/Company.Models.AssemblyInfo.cs
 /Users/craigwhite/Projects/Company/Company.Models/obj/Debug/netcoreapp3.1/Company.Models.dll
 /Users/craigwhite/Projects/Company/Company.Models/obj/Debug/netcoreapp3.1/Company.Models.pdb
+/Users/craigwhite/Projects/Company/Company.Models/obj/Debug/netcoreapp3.1/Company.Models.csprojAssemblyReference.cache

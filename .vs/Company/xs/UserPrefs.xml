@@ -1,41 +1,44 @@
 ﻿<Properties StartupConfiguration="{1A057BC2-C39A-4818-B97F-2A35EC61FFA4}|Default">
   <MonoDevelop.Ide.ItemProperties.Company.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Company.Models/CompanyContext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Company.Tests/CompanyInfoServiceTest.cs">
     <Files>
-      <File FileName="Company.Entities/Companies.cs" Line="6" Column="13" />
-      <File FileName="Company.Business/Converter/CompanyToModelConverter.cs" Line="1" Column="1" />
-      <File FileName="Company.Business/Services/CompanyInfo.cs" Line="15" Column="1" />
-      <File FileName="Company.Business/Services/Interfaces/ICompanyInfo.cs" Line="8" Column="20" />
-      <File FileName="Company.Api/Controllers/CompanyInfoController.cs" Line="11" Column="9" />
-      <File FileName="Company.Api/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
-      <File FileName="Company.Models/CompanyModel.cs" Line="5" Column="30" />
-      <File FileName="Company.Api/Startup.cs" Line="42" Column="55" />
-      <File FileName="Company.Api/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="Company.Business/Services/CompanyInfo.cs" Line="12" Column="134" />
+      <File FileName="Company.Models/CompanyModel.cs" Line="9" Column="38" />
       <File FileName="Company.Models/CompanyContext.cs" Line="1" Column="1" />
+      <File FileName="Company.Api/Startup.cs" Line="42" Column="10" />
+      <File FileName="Company.Business/Services/Interfaces/ICompanyInfo.cs" Line="12" Column="1" />
+      <File FileName="Company.Entities/Companies.cs" Line="8" Column="4" />
+      <File FileName="Company.Api/Controllers/CompanyInfoController.cs" Line="29" Column="67" />
+      <File FileName="Company.Api/Controllers/WeatherForecastController.cs" Line="19" Column="69" />
+      <File FileName="Company.Api/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="Company.Api/Program.cs" Line="1" Column="1" />
+      <File FileName="Company.Tests/CompanyInfoServiceTest.cs" Line="5" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Company" expanded="True">
             <Node name="Company.Api" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="PackageDependencies" expanded="True" />
-              </Node>
+              <Node name="Dependencies" expanded="True" />
               <Node name="Controllers" expanded="True" />
             </Node>
-            <Node name="Company.Entities" expanded="True" />
-            <Node name="Company.Models" expanded="True">
-              <Node name="CompanyContext.cs" selected="True" />
+            <Node name="Company.Business" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
             </Node>
-            <Node name="Company.Tests" expanded="True" />
+            <Node name="Company.Entities" expanded="True" />
+            <Node name="Company.Models" expanded="True" />
+            <Node name="Company.Tests" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="CompanyInfoServiceTest.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Company.Entities FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Company.Tests FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

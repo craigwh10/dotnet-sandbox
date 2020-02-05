@@ -2,13 +2,13 @@
 
 namespace Company.Models
 {
-    public class TodoContext : DbContext
+    public class CompanyContext : DbContext
     {
-        public TodoContext(DbContextOptions<CompanyContext> options)
+        public CompanyContext(DbContextOptions<CompanyContext> options)
             : base(options)
         {
         }
 
-        public DbSet<CompanyItem> TodoItems { get; set; }
+        public DbSet<CompanyModel> Companies { get; set; }
     }
 }

@@ -1,0 +1,8 @@
+/Users/craigwhite/Projects/Company/Company.Tests/bin/Debug/netcoreapp3.1/Company.Tests.deps.json
+/Users/craigwhite/Projects/Company/Company.Tests/bin/Debug/netcoreapp3.1/Company.Tests.dll
+/Users/craigwhite/Projects/Company/Company.Tests/bin/Debug/netcoreapp3.1/Company.Tests.pdb
+/Users/craigwhite/Projects/Company/Company.Tests/obj/Debug/netcoreapp3.1/Company.Tests.csprojAssemblyReference.cache
+/Users/craigwhite/Projects/Company/Company.Tests/obj/Debug/netcoreapp3.1/Company.Tests.AssemblyInfoInputs.cache
+/Users/craigwhite/Projects/Company/Company.Tests/obj/Debug/netcoreapp3.1/Company.Tests.AssemblyInfo.cs
+/Users/craigwhite/Projects/Company/Company.Tests/obj/Debug/netcoreapp3.1/Company.Tests.dll
+/Users/craigwhite/Projects/Company/Company.Tests/obj/Debug/netcoreapp3.1/Company.Tests.pdb

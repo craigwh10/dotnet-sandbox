@@ -1,0 +1,8 @@
+/Users/craigwhite/Projects/Company/Company.Entities/obj/Debug/netcoreapp3.1/Company.Entities.csprojAssemblyReference.cache
+/Users/craigwhite/Projects/Company/Company.Entities/obj/Debug/netcoreapp3.1/Company.Entities.AssemblyInfoInputs.cache
+/Users/craigwhite/Projects/Company/Company.Entities/obj/Debug/netcoreapp3.1/Company.Entities.AssemblyInfo.cs
+/Users/craigwhite/Projects/Company/Company.Entities/bin/Debug/netcoreapp3.1/Company.Entities.deps.json
+/Users/craigwhite/Projects/Company/Company.Entities/bin/Debug/netcoreapp3.1/Company.Entities.dll
+/Users/craigwhite/Projects/Company/Company.Entities/bin/Debug/netcoreapp3.1/Company.Entities.pdb
+/Users/craigwhite/Projects/Company/Company.Entities/obj/Debug/netcoreapp3.1/Company.Entities.dll
+/Users/craigwhite/Projects/Company/Company.Entities/obj/Debug/netcoreapp3.1/Company.Entities.pdb
